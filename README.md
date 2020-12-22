@@ -9,10 +9,10 @@ Projeto desenvolvido durante a disciplina de oficina de integração com o objet
 
 ### 📚 Bibliotecas
 
- - [**mysql connector**]
- - [**jcalendar 1.4**]
- - [**absolute layout**]
- - [**jasperreports 6.4.3**]
+ - **mysql connector**
+ - **jcalendar 1.4**
+ - **absolute layout**
+ - **jasperreports 6.4.3**
 
 ### :hammer: Ferramentas
 

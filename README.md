@@ -17,5 +17,6 @@ Projeto desenvolvido durante a disciplina de oficina de integração com o objet
 ### :hammer: Ferramentas
 
 - [NetBeans 8.2](https://netbeans.org/downloads/8.2/rc/)
+- [Workbench](https://dev.mysql.com/downloads/workbench/)
 - [iReport](https://community.jaspersoft.com/project/ireport-designer/releases)
 

@@ -20,3 +20,8 @@ Projeto desenvolvido durante a disciplina de oficina de integração com o objet
 - [Workbench](https://dev.mysql.com/downloads/workbench/)
 - [iReport](https://community.jaspersoft.com/project/ireport-designer/releases)
 
+### :speech_balloon: Contato
+
+**Linkedin**: [Marcos Vinicius](https://www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195/)
+
+**Email**: mvsrodri00@gmail.com

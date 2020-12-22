@@ -9,7 +9,7 @@ Projeto desenvolvido durante a disciplina de oficina de integração com o objet
 
 ### 📚 Bibliotecas
 
- - **mysql connector**
+ - **mysql connector 8.0.21**
  - **jcalendar 1.4**
  - **absolute layout**
  - **jasperreports 6.4.3**

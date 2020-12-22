@@ -9,10 +9,10 @@ Projeto desenvolvido durante a disciplina de oficina de integração com o objet
 
 ### 📚 Bibliotecas
 
- - **mysql connector 8.0.21**
- - **jcalendar 1.4**
+ - **[mysql connector 8.0.21](https://downloads.mysql.com/archives/c-j/)**
+ - **[jcalendar 1.4](http://www.java2s.com/Code/Jar/j/Downloadjcalendar14jar.htm)**
  - **absolute layout**
- - **jasperreports 6.4.3**
+ - **[jasperreports 6.4.3](https://sourceforge.net/projects/jasperreports/files/jasperreports/JasperReports%206.4.3/)**
 
 ### :hammer: Ferramentas
 

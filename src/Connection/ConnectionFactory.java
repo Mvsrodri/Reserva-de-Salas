@@ -10,7 +10,7 @@ public class ConnectionFactory {
     
     public static Connection conectar(){
         try{
-            return DriverManager.getConnection("jdbc:mysql://localhost:3306/bd_reserva?useTimezone=true&serverTimezone=UTC","root","3621");
+            return DriverManager.getConnection("jdbc:mysql://localhost:3306/Nome_do_Banco?useTimezone=true&serverTimezone=UTC","root","Senha_do_usuario");
         }catch(SQLException e){
             throw new RuntimeException(e);
         }
